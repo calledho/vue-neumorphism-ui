@@ -1,6 +1,6 @@
 language: node_js
 before_install:
-  - chmod +x deploy.sh
+  - chmod 777 deploy.sh
 sudo: required
 node_js:
   - 'lts/*'
