@@ -1,3 +1,5 @@
+- git config --global user.name "Yuhn-z"
+- git config --global user.email 1029363172@qq.com
 language: node_js
 before_install:
   - chmod 777 deploy.sh
