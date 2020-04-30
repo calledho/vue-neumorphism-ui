@@ -11,3 +11,7 @@ cache:
 script:
   - ./deploy.sh
 branch: master
+env:
+  global:
+    - U_EMILE: 1029363172@qq.com
+    - U_NAME: Yuhn-z
